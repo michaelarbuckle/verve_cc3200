@@ -1,0 +1,11 @@
+MODBUS protocol use 64kB address space
+
+
+You can calculate 3.5 character time easily.
+in RTU mode we have 11 bits/character
+let baud rate = 9600 then
+
+1 character time = 11 * 1/9600
+                 = 1145.83 uSec OR
+                 = 1146 mSec
+3.5 Character time = 4446*3.5 = 4 mSec (appx)

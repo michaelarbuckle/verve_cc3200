@@ -1,0 +1,1 @@
+${sessionDir}\..\..\air_quality_monitor\Release\air_quality_monitor.bin

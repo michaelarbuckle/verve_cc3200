@@ -1,0 +1,1 @@
+{"uuid":"__SL_G_UID","timestamp":"__SL_G_DAT","sensors":[{"type":"CO2","value":"__SL_G_CO2"},{"type":"dust","value":"__SL_G_DST"},{"type":"EMF","value":"__SL_G_EMF"},{"type":"humidity","value":"__SL_G_HUM"},{"type":"pressure","value":"__SL_G_PRS"},{"type":"VOC","value":"__SL_G_VOC"},{"type":"radon","value":"0.0"}]}
